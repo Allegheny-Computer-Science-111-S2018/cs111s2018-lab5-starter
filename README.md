@@ -42,7 +42,7 @@ characteristics of your implementation:
 * The `ManipulateDna` program must:
   * Contain at least four single-line comments and two multi-line comments
   * Include at least 8 `println` statements
-  * Perform and display manipations of the DNA string as outlined in the
+  * Perform and display manipulations of the DNA string as outlined in the
     assignment sheet
 
 When you use the `git commit` command to transfer your source code to your
@@ -106,19 +106,12 @@ To run one of these commands, you must be in the main directory for this
 assignment where the `build.gradle` file is located. Then, you can type the
 command in the terminal and study the output.
 
-If the course instructor publishes a new version of GatorGrader and asks you to
-access it, then you need change into the tool's directory by typing `cd
-gatorgrader`. Then, you can type the command `git pull` to download the new
-source code for the GatorGrader tool. If this command completes successfully,
-then you can return to the main directory for this Laboratory assignment by
-typing `cd ..` and then continuing your work.
-
 ## Output
 
 Due to the inherent randomness in this program's output, typing the command
 `gradle run` in the terminal window produces textual output that will differ
 from the instructor's version of `ManipulateDna`. Your program must adhere to
-all of the requirements for the assignment and passes all of the verification
+all of the requirements for the assignment and pass all of the verification
 checks, producing textual output that follows the pattern that is given on the
 assignment sheet. In particular, please remember that the purpose of the
 `ManipulateDna` program is to effectively manipulate an input DNA string &mdash;
